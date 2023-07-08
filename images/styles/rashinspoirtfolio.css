@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.nav-titel{
+    font-size: 45px;
+    font-weight: 800;
+    color: rgb(19, 19, 19);
+}
