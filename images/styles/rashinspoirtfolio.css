@@ -44,9 +44,9 @@ nav a{
 }
 .header{
     background-color: #fff8f3;
-    background-image: url('../header_bg.png');
-    background-repeat: no-repeat;
-    background-position: bottom right;
+    background-image: url('../header_bg.png') , url('../developer.png');
+    background-repeat: no-repeat  ;
+    background-position: bottom right , top left;
     
 }
 .banner{
